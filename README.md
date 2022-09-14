@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python.
+- Here is a link to my [LinkedIn](www.linkedin.com/in/michael-kiplangat-481508196).
 <!--
 **terermike/terermike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
